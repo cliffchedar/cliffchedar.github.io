@@ -1,0 +1,37 @@
+.MyWork{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    font-size: 30px;
+    font-weight: 500;
+
+}
+.dsn_img{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 38px;
+    transition: 0.4S;
+    cursor: pointer;
+}
+
+.dsn_img:hover{
+    transform: scale(1.10);
+    border: 4px solid pink;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+.webdsn_img{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 38px;
+    transition: 0.4S;
+    cursor: pointer; 
+}
+.webdsn_img:hover{
+    transform: scale(1.10);
+    border: 4px solid orange;
+    border-radius: 20px;
+    transition: 0.4s;
+
+}
