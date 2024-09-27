@@ -1,0 +1,275 @@
+{
+    "version": "5.2",
+    "groups": [
+        {
+            "id": 1,
+            "title": "Thesis",
+            "iconColor": "hsla(44, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "https://www.google.com/search?q=perceived+credibility+of+technology+and+enjoyment&client=firefox-b-d&biw=1600&bih=814&ei=4qljY67SLJCW9u8Pr_eL6AI&oq=perceived+credibility+of+technology+and+enjoy&gs_lp=Egxnd3Mtd2l6LXNlcnC4AQP4AQEqAggAMgUQIRigATIFECEYoAHCAggQABiGAxiwA8ICCBAhGBYYHhgdwgIKECEYFhgeGA8YHZAGBUj-PFCTAVi5KnABeADIAQCQAQCYAcAEoAG6F6oBCTItOC4xLjAuMeIDBCBNGAHiAwQgQRgB4gMEIEYYAIgGAQ&sclient=gws-wiz-serp",
+                    "title": "perceived credibility of technology and enjoyment - Google Search",
+                    "id": 2
+                },
+                {
+                    "url": "https://www.researchgate.net/publication/220140650_An_assessment_of_the_influence_of_perceived_enjoyment_and_attitude_on_the_intention_to_use_technology_among_pre-service_teachers_A_structural_equation_modeling_approach",
+                    "title": "An assessment of the influence of perceived enjoyment and attitude on the intention to use technology among pre-service teachers: A structural equation modeling approach | Request PDF",
+                    "id": 3
+                },
+                {
+                    "url": "https://www.tandfonline.com/doi/full/10.1080/1461670X.2021.1889398?scroll=top&needAccess=true",
+                    "title": "Credibility and Enjoyment through Data? Effects of Statistical Information and Data Visualizations on Message Credibility and Reading Experience: Journalism Studies: Vol 22, No 5",
+                    "id": 4
+                },
+                {
+                    "url": "https://www.researchgate.net/publication/220542856_The_Influence_of_Perceived_Credibility_on_Preferences_for_Recommender_Systems_as_Sources_of_Advice",
+                    "title": "(PDF) The Influence of Perceived Credibility on Preferences for Recommender Systems as Sources of Advice",
+                    "id": 5
+                },
+                {
+                    "url": "http://journal.kci.go.kr/JTS/archive/articleView?artiId=ART002586536",
+                    "title": "Influence of Tourism Contents Quality on YouTube and Source Credibility on Perceived Enjoyment, User Satisfaction and Behavioral Intention",
+                    "id": 6
+                },
+                {
+                    "url": "https://www.tandfonline.com/doi/abs/10.1080/1461670X.2021.1889398?journalCode=rjos20",
+                    "title": "Credibility and Enjoyment through Data? Effects of Statistical Information and Data Visualizations on Message Credibility and Reading Experience: Journalism Studies: Vol 22, No 5",
+                    "id": 7
+                },
+                {
+                    "url": "https://koreascience.kr/article/JAKO201821464985800.page",
+                    "title": "Consumer Perceptions of Images in Fashion Instagram by Information Providers (Brand vs Consumers) -Focusing on Credibility, Usefulness, Enjoyment- -Journal of the Korean Society of Clothing and Textiles | Korea Science",
+                    "id": 8
+                },
+                {
+                    "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjh__HXgpH7AhWwi_0HHQlEDLY4FBAWegQICxAB&url=https%3A%2F%2Fir.library.oregonstate.edu%2Fdownloads%2Fsx61dp289&usg=AOvVaw27BDc2hwVZ_eUedF9Fiktj",
+                    "title": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjh__HXgpH7AhWwi_0HHQlEDLY4FBAWegQICxAB&url=https%3A%2F%2Fir.library.oregonstate.edu%2Fdownloads%2Fsx61dp289&usg=AOvVaw27BDc2hwVZ_eUedF9Fiktj",
+                    "id": 9
+                },
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 10
+                },
+                {
+                    "url": "https://web.whatsapp.com/",
+                    "title": "WhatsApp",
+                    "id": 11,
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAByElEQVR42pWTzUuVQRTGZ5H2sSjqP2khFFh+EOGyP8MwK1ICERfuo08rrMAwiKuQlxZa5EZw0VqXheA1A+/bvdJ73885M+c8natQXO8r6YEHhjnn+Z2Z4Yw5GBB01avfvmSNIIYI2JPoOoyj6pxAusxhAcgpNS4LCxDWIJ9ngTcTwOtxyOIMZDeAMCPPGiUBzrSYRc1hbbMilO+brp0GrphW9Z8Eno+CKVVItC4i/yD16vdPe+Z711tMhbrTr5AM3rv5/e4sF4U95MX99uKNdWCn0rYvj26BmVVy1fyuVxa5vtM84pEB6D0Bqv0Uhbw3SRjEsvS2mTg6QCXll3BEgWHnINNjxwc8vQvPLMZ7D5kaKQYMXgKGuosBT27DOw+TNHZD/viqGDBwVnWuMEflKRDZqknTRomCbaCv41iPmNa2vXPunSFy3eQcWO/UVvh1CVhbbdv3D4egHhX1mGZkWTRr0xgyMvDfQZLBy8jT2BPRwt9JJEudSRKu2CQCPx4G+joLj+0f3NwzW0trCjjf8h8sUYfN82mFIQ1+MM1MgsdugHXq0oVniIItpyYQ2bK19oI5LDTZS9aWrM1/6RraTWUD1QdVz8H6P+E0huVOdNoIAAAAAElFTkSuQmCC"
+                },
+                {
+                    "url": "https://github.com/Delphydarks/lara_9_Crud",
+                    "title": "GitHub - Delphydarks/lara_9_Crud",
+                    "id": 12
+                },
+                {
+                    "url": "https://newjersey.craigslist.org/",
+                    "title": "craigslist: north jersey jobs, apartments, for sale, services, community, and events",
+                    "id": 13
+                },
+                {
+                    "url": "https://newjersey.craigslist.org/search/ofc",
+                    "title": "north jersey admin/office jobs - craigslist",
+                    "id": 14
+                },
+                {
+                    "url": "https://newjersey.craigslist.org/ofc/d/haledon-front-desk-cashier-for-busy-car/7543495874.html",
+                    "title": "Front Desk Cashier for Busy Car Wash - admin / office -...",
+                    "id": 15
+                },
+                {
+                    "url": "https://www.figma.com/proto/wDWUlfkjLKZ3P0UHcOBHlf/Untitled?page-id=0%3A1&node-id=13%3A1021&viewport=1475%2C1189%2C1.4&scaling=min-zoom",
+                    "title": "▶ Page 1 - Untitled",
+                    "id": 16
+                },
+                {
+                    "url": "https://meet.google.com/",
+                    "title": "Google Meet",
+                    "id": 17
+                },
+                {
+                    "url": "https://eric.ed.gov/?q=enjoyment+and+perceived+credibility",
+                    "title": "ERIC - Search Results",
+                    "id": 18
+                },
+                {
+                    "url": "https://files.eric.ed.gov/fulltext/EJ1337923.pdf",
+                    "title": "EJ1337923.pdf",
+                    "id": 19
+                },
+                {
+                    "url": "https://quillbot.com/",
+                    "title": "Paraphrasing Tool | QuillBot AI",
+                    "id": 20
+                },
+                {
+                    "url": "https://sci-hub.hkvisa.net/10.1177/2167479521998395",
+                    "title": "Sci-Hub | The Effect of Statistics on Enjoyment and Perceived Credibility in Sports Media | 10.1177/2167479521998395",
+                    "id": 21
+                },
+                {
+                    "url": "https://sci-hub.se/https://doi.org/10.1080/1461670X.2021.1889398",
+                    "title": "Sci-Hub | Credibility and Enjoyment through Data? Effects of Statistical Information and Data Visualizations on Message Credibility and Reading Experience. Journalism Studies, 22(5), 575–594 | 10.1080/1461670x.2021.1889398",
+                    "id": 22
+                },
+                {
+                    "url": "https://www.google.com/search?client=firefox-b-d&q=perceived+credibility+in+virtual+reality",
+                    "title": "perceived credibility in virtual reality - Google Search",
+                    "id": 23
+                },
+                {
+                    "url": "https://www.researchgate.net/publication/220893820_The_Influence_of_Virtual_Representatives_on_Recommender_System_Evaluation",
+                    "title": "(PDF) The Influence of Virtual Representatives on Recommender System Evaluation.",
+                    "id": 24
+                },
+                {
+                    "url": "https://aisel.aisnet.org/amcis2009/533/",
+                    "title": "\"The Influence of Virtual Representatives on Recommender System Evaluat\" by Kyung-Hyan Yoo and Ulrike Gretzel",
+                    "id": 25
+                },
+                {
+                    "url": "https://console.firebase.google.com/u/1/project/mit-app-638ec/firestore/rules",
+                    "title": "mit-app – Cloud Firestore – Firebase console",
+                    "id": 26
+                },
+                {
+                    "url": "https://firebase.google.com/docs/firestore/manage-data/delete-data",
+                    "title": "Delete data from Cloud Firestore  |  Firebase",
+                    "id": 27
+                },
+                {
+                    "url": "https://firebase.google.com/docs/firestore/manage-data/add-data",
+                    "title": "Add data to Cloud Firestore  |  Firebase",
+                    "id": 28
+                },
+                {
+                    "url": "https://web.telegram.org/z/#1539336959",
+                    "title": "Telegram",
+                    "id": 29
+                },
+                {
+                    "url": "https://www.google.com/search?q=overflow+in+expo&client=firefox-b-d&ei=PleDY8fBGYOJ9u8Pj5Ch4AI&ved=0ahUKEwjH2PDPrc77AhWDhP0HHQ9ICCwQ4dUDCA4&uact=5&oq=overflow+in+expo&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOgcIABCwAxBDOgUIABCRAjoICAAQgAQQsQM6BQgAEIAEOggILhCxAxCDAToECAAQQzoECC4QQzoICC4QsQMQgAQ6CAgAELEDEJECOgcILhCxAxBDOgUILhCxAzoICC4QgAQQsQM6CwguEIAEEMcBENEDOgUILhCABDoICC4QgAQQ1AI6CAgAEBYQHhAPOggIABAWEB4QCkoECEEYAEoECEYYAFCABFi6SmC8TWgEcAF4AIAB7QKIAektkgEGMi05LjEwmAEAoAEByAEKwAEB&sclient=gws-wiz-serp",
+                    "title": "overflow in expo - Google Search",
+                    "id": 30
+                },
+                {
+                    "url": "http://localhost/phpmyadmin/db_export.php?db=newdb",
+                    "title": "localhost / 127.0.0.1 / newdb | phpMyAdmin 4.8.4",
+                    "id": 31
+                },
+                {
+                    "url": "https://www.google.com/search?q=+button+click+increase+life+unity&client=firefox-b-d&ei=8MOCY86yKIPYsAeDoIKwBg&ved=0ahUKEwjO6ruSoc37AhUDLOwKHQOQAGYQ4dUDCA4&uact=5&oq=+button+click+increase+life+unity&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQwwQQoAE6CggAEEcQ1gQQsAM6BggAEAcQHjoICAAQBxAeEA86CAgAEAgQBxAeOggIABAFEAcQHjoGCAAQBRAeOgYIABAIEB46BwgAEIAEEA06CAgAEAgQHhANOgoIIRDDBBAKEKABSgQIQRgASgQIRhgAUOI5WI3sAWC09QFoAnABeACAAYEHiAGDPpIBCTMtOC43LjIuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp#fpstate=ive&vld=cid:4b09ccb1,vid:xpcyZdyO5P8",
+                    "title": "button click increase life unity - Google Search",
+                    "id": 32
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=g2U0MiZSV9A",
+                    "title": "(9) Learning Blender - A step by step beginner Tutorial for 3D Artists - YouTube",
+                    "id": 33
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=AB-NHvjad7g",
+                    "title": "(9) Cold BREATH Particle Tutorial (Unity Particle Effects) - YouTube",
+                    "id": 34
+                },
+                {
+                    "url": "https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&ifkv=AWnogHeBsLPkDR4LFUjB8VCnYZred5dnCYAmKORhYF-WaZ8ciZ0NspkZ5IBhukadSYaiaqV6qR0PoQ&flowName=GlifWebSignIn&flowEntry=ServiceLogin#sent/QgrcJHsbcTjvPPmqbswxGWlSnmtdGzdqkjB",
+                    "title": "Gmail",
+                    "id": 35
+                },
+                {
+                    "url": "https://send-anywhere.com/",
+                    "title": "Send Anywhere - File transfer",
+                    "id": 36
+                },
+                {
+                    "url": "https://www.bing.com/search?q=fix+connections+to+bluetooth+audio+devices+and+wireless+displays+in+windows+10&filters=guid:%224026226-en-dia%22%20lang:%22en%22&form=S00028",
+                    "title": "fix connections to bluetooth audio devices and wireless displays in windows 10 - Search",
+                    "id": 37,
+                    "favIconUrl": "data:image/x-icon;base64,AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAIAAAAD/AAAAgExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAACAAAAA/wAAAP8AAAD/THBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcAAAAAgAAAAP8AAAD/AAAA/wAAAIBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAIAAAAD/AAAA/wAAAP8AAACATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAAAgAAAAnwAAAM8AAAD/AAAA/wAAAN8AAACQAAAAQExwRwAAAACAAAAA/wAAAP8AAAD/AAAAgExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAAAQAAAAkAAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAAvwAAAP8AAAD/AAAA/wAAAIBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcAAAAAEAAAAM8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAACATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAACQAAAA/wAAAP8AAAD/AAAAnwAAAEBMcEcAAAAAEAAAAEAAAAC/AAAA/wAAAP8AAAD/AAAAv0xwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcAAAAAQAAAAP8AAAD/AAAA/wAAAIBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAACAAAAA/wAAAP8AAAD/AAAAIExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAACQAAAA/wAAAP8AAAC/THBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAACfAAAA/wAAAP8AAACfTHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAN8AAAD/AAAA/wAAAEBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAEAAAAD/AAAA/wAAAM9McEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcAAAAA/wAAAP8AAAD/AAAAEExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAP8AAAD/AAAA/0xwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAAD/AAAA/wAAAP9McEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAAAQAAAA/wAAAP8AAAD/THBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAM8AAAD/AAAA/wAAAEBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAEAAAAD/AAAA/wAAAN9McEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcAAAAAnwAAAP8AAAD/AAAAn0xwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcAAAAAvwAAAP8AAAD/AAAAkExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAAAgAAAA/wAAAP8AAAD/AAAAgExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAAIAAAAD/AAAA/wAAAP8AAABATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAACQAAAA/wAAAP8AAAD/AAAAvwAAAEAAAAAQTHBHAAAAAEAAAACfAAAA/wAAAP8AAAD/AAAAkExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAABAAAADPAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAM8AAAAQTHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAAAAABAAAACQAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAACQAAAAEExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwAAAABAAAAAkAAAAN8AAAD/AAAA/wAAAM8AAACfAAAAIExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcATHBHAExwRwBMcEcA///////////////////////////////////+P////D////g////wf//AIP//AAH//gAD//4EB//8H4P//D/D//w/w//8P+P//H/D//w/w//8P8P//B+D//4CB//+AAf//wAP///AP/////////////////////////////////8="
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "bookmarkId": null,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false,
+            "discardTabsAfterHide": false,
+            "discardExcludeAudioTabs": false,
+            "prependTitleToWindow": false,
+            "exportToBookmarksWhenAutoBackup": true,
+            "leaveBookmarksOfClosedTabs": false,
+            "moveToGroupIfNoneCatchTabRules": null
+        }
+    ],
+    "lastCreatedGroupPosition": 2,
+    "defaultGroupProps": {
+        "exportToBookmarksWhenAutoBackup": true
+    },
+    "closePopupAfterChangeGroup": true,
+    "closePopupAfterSelectTab": false,
+    "openGroupAfterChange": false,
+    "alwaysAskNewGroupName": true,
+    "createNewGroupWhenOpenNewWindow": false,
+    "openManageGroupsInTab": true,
+    "showConfirmDialogBeforeGroupArchiving": true,
+    "showConfirmDialogBeforeGroupDelete": true,
+    "showNotificationAfterGroupDelete": true,
+    "showContextMenuOnTabs": true,
+    "showContextMenuOnLinks": true,
+    "defaultBookmarksParent": "toolbar_____",
+    "showExtendGroupsPopupWithActiveTabs": false,
+    "showTabsWithThumbnailsInManageGroups": false,
+    "fullPopupWidth": false,
+    "temporaryContainerTitle": "⌚Temporary Container",
+    "contextMenuTab": [
+        "open-in-new-window",
+        "reload",
+        "discard",
+        "remove",
+        "update-thumbnail",
+        "set-group-icon",
+        "move-tab-to-group"
+    ],
+    "contextMenuGroup": [
+        "open-in-new-window",
+        "sort-asc",
+        "sort-desc",
+        "discard",
+        "discard-other",
+        "export-to-bookmarks",
+        "unload",
+        "archive",
+        "rename",
+        "reload-all-tabs"
+    ],
+    "autoBackupEnable": true,
+    "autoBackupLastBackupTimeStamp": 1727292542,
+    "autoBackupIntervalKey": "days",
+    "autoBackupIntervalValue": 1,
+    "autoBackupIncludeTabThumbnails": true,
+    "autoBackupIncludeTabFavIcons": true,
+    "autoBackupFolderName": "STG-backups-FF-130.0.1",
+    "autoBackupByDayIndex": true,
+    "theme": "auto",
+    "hotkeys": [
+        {
+            "action": "load-next-group",
+            "groupId": 0,
+            "value": "Ctrl+Backquote"
+        },
+        {
+            "action": "load-prev-group",
+            "groupId": 0,
+            "value": "Ctrl+Shift+Backquote"
+        }
+    ]
+}
