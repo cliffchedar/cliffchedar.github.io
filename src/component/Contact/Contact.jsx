@@ -9,7 +9,7 @@ const Contact = () => {
     <div className='Contact'>
         <div className="contact-title">
             <h1>Get in touch</h1>
-            <img style={{height: 70, weight: 500}} src={theme_pattern} alt="theme_pattern" />
+            <img style={{height: 120, weight: 500}} src={theme_pattern} alt="theme_pattern" />
         </div>
         <div className="contact-section">
             <div className="contact-left">
