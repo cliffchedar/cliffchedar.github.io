@@ -1,13 +1,16 @@
 import React from 'react'
 import './MyWork.css'
+import theme_pattern from '../../assets/theme_pattern.png'
 import dsn_img from '../../assets/dsn_img.jpg'
 import webdsn_img from '../../assets/webdsn_img.jpg'
 import web_img from '../../assets/web_img.jpg'
+
 const MyWork = () => {
   return (
     <div className='MyWork'>
       <div className="MyWork-title">
         <h1>My Latest work</h1>
+        <img style={{height: 120, borderRadius: '120%'}} src={theme_pattern} alt="theme_patterns"/>
       </div>
         <ul>
           <li className='listen'><img style={{width: 500,}} src={dsn_img} alt="dsn_img"/></li>

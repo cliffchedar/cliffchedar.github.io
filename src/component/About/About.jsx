@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import about_img from '../../assets/about_img.jpg'
+import theme_pattern from '../../assets/theme_pattern.png'
 import profile_img from '../../assets/profile_img.jpg'
 
 const About = () => {
@@ -8,7 +8,7 @@ const About = () => {
     <div className='about'>
       <div className="about-title">
         <h1>About me</h1>
-        {/*<img src={about_img} alt="" />*/}
+        <img style={{borderRadius: '20%', height: 100 }}src={theme_pattern} alt="theme_pattern" />
       </div>
       <div className="about-sections">
         <div className="about-left">

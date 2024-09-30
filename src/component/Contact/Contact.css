@@ -64,5 +64,48 @@
 .contact-right label{
   color: #D8D8D8;
   font-size: 22px; 
-  font-weight: 500px;
+  font-weight: 500;
+}
+.contact-right input{
+  border: none;
+  width: 700px;
+  height: 78px;
+  padding-left: 20px;
+  border-radius: 4px;
+  background: #32323c;
+  color: #A0A0A0;
+  font-family: Outfit;
+  font-size: 20px;
+}
+.contact-right input:hover{
+    border: 2px solid white;
+}
+
+.contact-right textarea{
+    width: 650px;
+    border: none;
+    padding: 25px;
+    border-radius: 4px;
+    background: #32323c;
+    color: #A0A0A0;
+    font-family: Outfit;
+    font-size: 20px;
+}
+.contact-right textarea:hover{
+    border: 2px solid white;
+}
+.contact-submit{
+    border: none;
+    color: white;
+    border-radius: 50px;
+    background: linear-gradient(270deg, #DF8908 50.41%, #B415FF 90.25%);  
+    font-size: 22px;
+    padding: 20px 60px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.contact-submit:hover{
+    transform: scale(1.1);
+    transform: 0.3s;
 }

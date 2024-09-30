@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 80px;
+    gap: 50px;
     margin: 80px 170px;
 }
 .services-title{
@@ -11,8 +11,14 @@
     font-size: 40px;
     font-weight: 80px;
 }
+.services-title img{
+    position: absolute;
+    bottom: 0;
+    right: 2;
+    z-index: -5;
+}
 li{
-    font-size: 30px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -22,8 +28,6 @@ li{
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
-
 }
 p{
     font-size: 20px;
