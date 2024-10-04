@@ -4,7 +4,7 @@ import theme_pattern from '../../assets/theme_pattern.png'
 
 const Services = () => {
   return (
-    <div className='services'>
+    <div id='services' className='services'>
         <div className="services-title">
             <h1>My Services</h1>
             <img style={{borderRadius: '50%', height: 100}} src={theme_pattern} alt="theme_pattern"/>

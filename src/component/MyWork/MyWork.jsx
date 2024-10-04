@@ -7,10 +7,10 @@ import web_img from '../../assets/web_img.jpg'
 
 const MyWork = () => {
   return (
-    <div className='MyWork'>
+    <div id='work' className='MyWork'>
       <div className="MyWork-title">
         <h1>My Latest work</h1>
-        <img style={{height: 120, borderRadius: '120%'}} src={theme_pattern} alt="theme_patterns"/>
+        <img style={{height: 120, borderRadius: '120%'}} src={theme_pattern} alt="theme_pattern"/>
       </div>
         <ul>
           <li className='listen'><img style={{width: 500,}} src={dsn_img} alt="dsn_img"/></li>

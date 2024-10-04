@@ -77,10 +77,6 @@
   font-family: Outfit;
   font-size: 20px;
 }
-.contact-right input:hover{
-    border: 2px solid white;
-}
-
 .contact-right textarea{
     width: 650px;
     border: none;

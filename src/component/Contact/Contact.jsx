@@ -5,8 +5,31 @@ import message_img from '../../assets/message_img.png'
 import location_img from '../../assets/location_img.png'
 import mobile_img from '../../assets/mobile_img.png' 
 const Contact = () => {
-  return (
-    <div className='Contact'>
+
+    const onSubmit = async (event) => {
+        event.preventDefault();
+        const formData = new FormData(event.target);
+    
+        formData.append("access_key", "efdc35a-9946-4fc7-bc87-a155719ce708");
+    
+        const object = Object.fromEntries(formData);
+        const json = JSON.stringify(object);
+    
+        const res = await fetch("https://api.web3forms.com/submit", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Accept: "application/json"
+          },
+          body: json
+        }).then((res) => res.json());
+    
+        if (res.success) {
+          alert(res.message);
+        }
+    }; 
+    return (
+    <div id='contact' className='Contact'>
         <div className="contact-title">
             <h1>Get in touch</h1>
             <img style={{height: 120, weight: 500}} src={theme_pattern} alt="theme_pattern" />
@@ -27,7 +50,7 @@ const Contact = () => {
                     </div>
                 </div>  
             </div>
-            <form className="contact-right">
+            <form onsubmit={onsubmit} className="contact-right">
                 <label htmlFor="">Your Name:</label>
                 <input type="text" placeholder='Enter yor name' name='name' />
                 <label htmlFor="">Your Email:</label>

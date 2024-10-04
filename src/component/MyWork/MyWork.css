@@ -6,11 +6,11 @@
     font-size: 30px;
     font-weight: 500;
 }
-.theme_pattern{
-    position: center;
+.MyWork-title img{
+    position: right;
     bottom: 0;
     right: 2;
-    z-index: -1; 
+    z-index: -1;
 }
 .listen{
     display: grid;
