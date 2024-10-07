@@ -5,16 +5,27 @@ import logo from '../../assets/logo.png'
 import underline from '../../assets/underline.png'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import menu_open from '../../assets/menu_open.png'
+import menu_close from '../../assets/menu_close.png'
+import {useRef} from 'react';
 
 const Navbar = () =>{ 
   
   const [menu,setMenu] = useState("home");
+  const menuRef = useRef();
+
+  const openMenu = () => {
+    menuRef.current.style.right="0";
+  }
+  const closeMenu = () => {
+    menu.current.style.right="-350px";
+  }
 
   return (
       <div className='navbar'>
         <img style={{height: 150}} src={logo} alt="logo"/>
-        <img style={{height: 50}} src={menu_open} alt="menu_open"/>
-          <ul className="nav-menu">
+        <img style={{height: 50}} src={menu_open} onclick={openMenu} alt="menu_open" className='nav-mob-open'/>
+          <ul ref={menuRef} className="nav-menu">
+            <img style={{height: 50}} src={menu_close} onclick={closeMenu} alt="menu_close" className="nav-mob-close"/>
             <li><AnchorLink className='anchor-link' href='#home'><p onClick={()=>setMenu("home")}>Home</p></AnchorLink>{menu==="home"?<img style={{height: 20, weight: 10}} src={underline} alt='underline'/>:<></>}</li>
             <li><AnchorLink className='anchor-link' offset={50} href='#services'><p onClick={()=>setMenu("services")}>Services</p></AnchorLink>{menu==="services"?<img style={{height: 20, weight: 10}} src={underline} alt='underline'/>:<></>}</li>
             <li><AnchorLink className='anchor-link' offset={50} href='#about'><p onClick={()=>setMenu("about")}>About</p></AnchorLink>{menu==="about"?<img style={{height: 20, weight: 10}} src={underline} alt='underline'/>:<></>}</li>
