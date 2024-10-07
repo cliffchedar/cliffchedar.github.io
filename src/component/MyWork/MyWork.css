@@ -6,10 +6,10 @@
     font-size: 30px;
     font-weight: 500;
 }
-.MyWork-title img{
-    position: right;
+.MyWork img{
+    position: relative;
     bottom: 0;
-    right: 2;
+    right: 0;
     z-index: -1;
 }
 .listen{
