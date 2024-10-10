@@ -6,6 +6,12 @@
     font-size: 30px;
     font-weight: 500;
 }
+.MyWork-title h1{
+    padding: 0px 30px;
+    font-size: 80px;
+    font-weight: 600;
+    gap: 40px;
+}
 .MyWork img{
     position: relative;
     bottom: 0;
