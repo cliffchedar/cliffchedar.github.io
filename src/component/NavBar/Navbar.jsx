@@ -23,9 +23,9 @@ const Navbar = () =>{
   return (
       <div className='navbar'>
         <img style={{height: 150}} src={logo} alt="logo"/>
-        <img style={{height: 50}} src={menu_open} onclick={openMenu} alt="menu_open" className='nav-mob-open'/>
+        <img style={{height: 50}} src={menu_open} onclick={openMenu} alt="" className='nav-mob-open'/>
           <ul ref={menuRef} className="nav-menu">
-            <img style={{height: 50}} src={menu_close} onclick={closeMenu} alt="menu_close" className="nav-mob-close"/>
+            <img style={{height: 50}} src={menu_close} onclick={closeMenu} alt="" className="nav-mob-close"/>
             <li><AnchorLink className='anchor-link' href='#home'><p onClick={()=>setMenu("home")}>Home</p></AnchorLink>{menu==="home"?<img style={{height: 20, weight: 10}} src={underline} alt='underline'/>:<></>}</li>
             <li><AnchorLink className='anchor-link' offset={50} href='#services'><p onClick={()=>setMenu("services")}>Services</p></AnchorLink>{menu==="services"?<img style={{height: 20, weight: 10}} src={underline} alt='underline'/>:<></>}</li>
             <li><AnchorLink className='anchor-link' offset={50} href='#about'><p onClick={()=>setMenu("about")}>About</p></AnchorLink>{menu==="about"?<img style={{height: 20, weight: 10}} src={underline} alt='underline'/>:<></>}</li>

@@ -56,7 +56,7 @@
     }
     .nav-mob-close{
          display: block;
-         position: relative;
+         position: relative; 
          top: 30px; 
          left: 290px;
          width: 30px;
