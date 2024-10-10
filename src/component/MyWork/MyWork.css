@@ -15,7 +15,7 @@
 .MyWork img{
     position: relative;
     bottom: 0;
-    right: 0;
+    top: -100px;
     z-index: -1;
 }
 .listen{
