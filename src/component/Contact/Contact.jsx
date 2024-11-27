@@ -43,7 +43,7 @@ const Contact = () => {
                         <img style={{height: 30, width: 25}} src={message_img} alt="message_img" /> <p>codeacademy@gmail.com</p>  
                     </div>
                     <div className="contact-detail">
-                        <img style={{height: 30, width: 25}} src={location_img} alt="location_img" /> <p>@mAccra-Ghana</p>   
+                        <img style={{height: 30, width: 25}} src={location_img} alt="location_img" /> <p>@Accra-Ghana</p>   
                     </div>
                     <div className="contact-detail">
                          <img style={{height: 30,width: 25}} src={mobile_img} alt="mobile_img" /> <p>+233 23-4567-890</p>   
