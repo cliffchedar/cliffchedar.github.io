@@ -35,8 +35,8 @@
     transition: 0.4S;
     cursor: pointer; 
    
-
 }
+
 .web_img{
     display: grid;
     grid-template-columns: 1fr;
@@ -45,3 +45,4 @@
     cursor: pointer; 
    
 }
+

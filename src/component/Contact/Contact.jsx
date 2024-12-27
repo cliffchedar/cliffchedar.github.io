@@ -50,9 +50,9 @@ const Contact = () => {
                     </div>
                 </div>  
             </div>
-            <form onsubmit={onsubmit} className="contact-right">
+            <form  onsubmit={onsubmit} className="contact-right">
                 <label htmlFor="">Your Name:</label>
-                <input type="text" placeholder='Enter yor name' name='name' />
+                <input type="text" placeholder='Enter your name' name='name' required/>
                 <label htmlFor="">Your Email:</label>
                 <input type="email" placeholder='Enter your email' name='email' />
                 <label htmlFor="">Write your message here:</label>
